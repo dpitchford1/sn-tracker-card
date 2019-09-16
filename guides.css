@@ -1,0 +1,73 @@
+/* Style Guide Patterns
+================================================================================ */
+/* block wrapper for each section */
+.sg-pattern {
+    margin-bottom: 2em;
+    overflow: hidden;
+	}
+/*.style-menu-1{}*/
+.style-menu-1 a	{ color: #cc0000; }
+.style-menu-2	{ border-bottom: 1px dotted #cc0000; }
+
+/* style guide colors structure */
+.sg-colors		{ overflow: hidden; margin-left: 0; padding-left: 0;  }
+.sg-colors li	{ float: left; width: 5em; }
+
+.sg-colors li.logo-59	{ width: 59px; }
+.sg-colors li.logo-90	{ width: 90px; }
+.sg-colors li.logo-170	{ width: 170px; }
+.sg-colors li.logo-200	{ width: 200px; }
+
+.sg-colors li{
+    border: 1px solid #ddd;
+    margin: 0 0.2em 0.2em 0;
+    overflow: hidden;
+    padding: 0.3em;
+	}
+/* color swatches */
+.sg-swatch{
+    height: 4em;
+    margin-bottom: 0.2em;
+    width: 100%;
+	}
+.sg-swatch	{ display: block; }
+.sg-label	{ line-height: 1; font-size: 14px; /*font-size: .75rem;*/ }
+
+/* Style Guide Headings */
+.sg-heading{
+	background-color: #237DAC;
+	border-radius: 8px;
+	color: #fff;
+	font-size: 16px; font-size: 1rem;
+	margin-bottom: 0;
+	padding: .5em;
+	text-transform: uppercase;
+	}
+.sg-subheading{
+	background-color: #eee;
+	border-bottom: 1px dotted #237DAC;
+	color: #237DAC;
+	font-size: 14px; font-size: .85rem;
+	margin-bottom: .9375em;
+	margin-top: 2em;
+	padding: .3em .5em;
+	text-transform: uppercase;
+	}
+.sg-tileheading{
+	color: #666;
+	font-size: 11px; /*font-size: .75rem;*/
+	margin-bottom: .5em;
+	text-transform: uppercase;
+	}
+	
+.sg-toggler{
+	clear: both;
+	}
+.sg-toggler a{
+	float: right;
+	}
+
+.sg-heading a{
+	color: #fff;
+	font-size: 12px;
+}

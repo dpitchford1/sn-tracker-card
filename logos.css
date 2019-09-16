@@ -1,0 +1,132 @@
+/* ----- NHL LOGO 59X59 ----- */
+.logo-wrapper.nhl {
+  background-image: url("team_logos/59x59/hockey/nhl/nhl.png"); }
+
+.logo-wrapper.nhl.wes {
+  background-image: url("team_logos/59x59/hockey/nhl/western-conference.png"); }
+
+.logo-wrapper.nhl.eas {
+  background-image: url("team_logos/59x59/hockey/nhl/eastern-conference.png"); }
+  
+
+
+.ico-59 { display: block; height: 59px; width: 59px; }
+.ico-90 { display: block; height: 90px; width: 90px; }
+.ico-170{ display: block; height: 170px; width: 170px; }
+.ico-200{ display: block; height: 200px; width: 200px; }
+
+
+.ico-bg{
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-size:100% auto;
+  }
+
+
+.nhl-anh--59x59 {
+	background-image: url("team_logos/59x59/hockey/nhl/anaheim-ducks.png"); }
+.nhl-anh--90x90 {
+	background-image: url("team_logos/90x90/hockey/nhl/anaheim-ducks.png"); }
+.nhl-anh--170x170 {
+	background-image: url("team_logos/170x170/hockey/nhl/anaheim-ducks.png"); }
+.nhl-anh--200x200 {
+	background-image: url("team_logos/200x200/hockey/nhl/anaheim-ducks.png"); }
+
+.team-anh .bgcolor{ background-color: #91764B; }
+
+
+
+	
+	
+
+
+.nhl.nj {
+  background-image: url("team_logos/59x59/hockey/nhl/new-jersey-devils.png"); }
+
+.nhl.nyi {
+  background-image: url("team_logos/59x59/hockey/nhl/new-york-islanders.png"); }
+
+.nhl.nyr {
+  background-image: url("team_logos/59x59/hockey/nhl/new-york-rangers.png"); }
+
+.nhl.phi {
+  background-image: url("team_logos/59x59/hockey/nhl/philadelphia-flyers.png"); }
+
+.nhl.pit {
+  background-image: url("team_logos/59x59/hockey/nhl/pittsburgh-penguins.png"); }
+
+.nhl.bos {
+  background-image: url("team_logos/59x59/hockey/nhl/boston-bruins.png"); }
+
+.nhl.buf {
+  background-image: url("team_logos/59x59/hockey/nhl/buffalo-sabres.png"); }
+
+.nhl.mon {
+  background-image: url("team_logos/59x59/hockey/nhl/montreal-canadiens.png"); }
+
+.nhl.ott {
+  background-image: url("team_logos/59x59/hockey/nhl/ottawa-senators.png"); }
+
+.nhl.tor {
+  background-image: url("team_logos/59x59/hockey/nhl/toronto-maple-leafs.png"); }
+
+.nhl.car {
+  background-image: url("team_logos/59x59/hockey/nhl/carolina-hurricanes.png"); }
+
+.nhl.tb {
+  background-image: url("team_logos/59x59/hockey/nhl/tampa-bay-lightning.png"); }
+
+.nhl.was {
+  background-image: url("team_logos/59x59/hockey/nhl/washington-capitals.png"); }
+
+.nhl.fla {
+  background-image: url("team_logos/59x59/hockey/nhl/florida-panthers.png"); }
+
+.nhl.wpg {
+  background-image: url("team_logos/59x59/hockey/nhl/winnipeg-jets.png"); }
+
+.nhl.chi {
+  background-image: url("team_logos/59x59/hockey/nhl/chicago-blackhawks.png"); }
+
+.nhl.det {
+  background-image: url("team_logos/59x59/hockey/nhl/detroit-red-wings.png"); }
+
+.nhl.stl {
+  background-image: url("team_logos/59x59/hockey/nhl/st-louis-blues.png"); }
+
+.nhl.nsh {
+  background-image: url("team_logos/59x59/hockey/nhl/nashville-predators.png"); }
+
+.nhl.cls {
+  background-image: url("team_logos/59x59/hockey/nhl/columbus-blue-jackets.png"); }
+
+.nhl.cgy {
+  background-image: url("team_logos/59x59/hockey/nhl/calgary-flames.png"); }
+
+.nhl.edm {
+  background-image: url("team_logos/59x59/hockey/nhl/edmonton-oilers.png"); }
+
+.nhl.col {
+  background-image: url("team_logos/59x59/hockey/nhl/colorado-avalanche.png"); }
+
+.nhl.van {
+  background-image: url("team_logos/59x59/hockey/nhl/vancouver-canucks.png"); }
+
+.nhl.min {
+  background-image: url("team_logos/59x59/hockey/nhl/minnesota-wild.png"); }
+
+.nhl.la {
+  background-image: url("team_logos/59x59/hockey/nhl/los-angeles-kings.png"); }
+
+.nhl.dal {
+  background-image: url("team_logos/59x59/hockey/nhl/dallas-stars.png"); }
+
+.nhl.sj {
+  background-image: url("team_logos/59x59/hockey/nhl/san-jose-sharks.png"); }
+
+.nhl.pho {
+  background-image: url("team_logos/59x59/hockey/nhl/phoenix-coyotes.png"); }
+
+
+
+
